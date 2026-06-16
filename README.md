@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Math
 |  |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 ## String
 |  |
 | ------- |
@@ -47,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
