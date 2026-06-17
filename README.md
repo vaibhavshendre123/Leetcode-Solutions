@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
