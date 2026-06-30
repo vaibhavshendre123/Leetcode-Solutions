@@ -71,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
