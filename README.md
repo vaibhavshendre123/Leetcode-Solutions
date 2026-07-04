@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0767-reorganize-string) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
