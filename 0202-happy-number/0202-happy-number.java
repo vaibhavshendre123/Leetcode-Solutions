@@ -4,6 +4,8 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         
         while(n!=1){
+            
+            if(set.contains(n)) return false;
             set.add(n);
             int sum = 0;
             while(n!=0){
@@ -12,7 +14,6 @@ class Solution {
                 sum += x*x;
             }
             n = sum;
-            if(set.contains(n)) return false;
             if(n==1) return true;
             
         }
