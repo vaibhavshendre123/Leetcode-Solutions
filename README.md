@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
