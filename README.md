@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0767-reorganize-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
