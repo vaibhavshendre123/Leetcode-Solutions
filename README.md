@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0322-coin-change) |
