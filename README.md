@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Depth-First Search
 |  |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
 ## Two Pointers
