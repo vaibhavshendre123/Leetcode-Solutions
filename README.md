@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0495-teemo-attacking](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0495-teemo-attacking](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Depth-First Search
 |  |
