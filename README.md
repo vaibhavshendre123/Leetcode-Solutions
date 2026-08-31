@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -160,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
