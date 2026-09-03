@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0495-teemo-attacking](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0495-teemo-attacking) |
 | [0518-coin-change-ii](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
