@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
