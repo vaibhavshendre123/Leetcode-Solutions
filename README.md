@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1399-count-largest-group](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1399-count-largest-group) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [1399-count-largest-group](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1399-count-largest-group) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/0767-reorganize-string) |
+| [1399-count-largest-group](https://github.com/vaibhavshendre123/Leetcode-Solutions/tree/master/1399-count-largest-group) |
 ## Greedy
 |  |
 | ------- |
